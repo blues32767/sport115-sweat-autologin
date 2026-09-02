@@ -15,7 +15,9 @@ If this tool saved you time, consider buying me a coffee! Your support helps me 
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
-※隱私權政策
+
+
+# 隱私權政策
 
 本擴充套件（運動部115揮汗有禮自動登入）尊重並保護使用者的個人隱私。本政策說明本套件如何處理使用者的相關資訊。
 

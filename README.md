@@ -5,6 +5,16 @@
 # 運動部115揮汗有禮-自動登入助手
 本擴充套件旨在協助使用者於運動部「115揮汗有禮」活動期間，自動化填寫登入資訊、管理週次排程提醒，並追蹤活動任務的完成狀態，提供單一且專屬的活動參與輔助工具。
 
+## ☕ 支持開發者 (Support Me)
+
+如果您覺得這個工具幫您省下了寶貴的時間，歡迎請我喝杯咖啡，這將支持我繼續維護與開發更多好用的工具！
+
+If this tool saved you time, consider buying me a coffee! Your support helps me maintain this project and build more open-source tools.
+
+<a href="https://www.buymeacoffee.com/blues32767" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
+
 ※隱私權政策
 
 本擴充套件（運動部115揮汗有禮自動登入）尊重並保護使用者的個人隱私。本政策說明本套件如何處理使用者的相關資訊。

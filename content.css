@@ -1,0 +1,177 @@
+/* 浮動按鈕區塊主體 */
+#auto-login-floater {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 999999;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  user-select: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  width: 280px;
+}
+
+/* 拖曳時的效果 */
+#auto-login-floater.dragging {
+  transform: scale(0.98);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  cursor: grabbing !important;
+}
+
+/* 頂部控制列 */
+.al-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  cursor: grab; /* 提示空白處可拖曳 */
+}
+
+/* iOS 風格切換開關群組 */
+.al-switch-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* iOS 開關主體 */
+.al-toggle {
+  width: 46px;
+  height: 26px;
+  background-color: #E5E5EA; /* iOS 灰色 */
+  border-radius: 15px;
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.05);
+}
+
+/* iOS 開關圓鈕 */
+.al-toggle-knob {
+  width: 22px;
+  height: 22px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s cubic-bezier(0.25, 0.1, 0.25, 1.2); /* 帶有微微回彈效果 */
+}
+
+/* 開關啟動狀態 */
+.al-toggle.active {
+  background-color: #34C759; /* iOS 綠色 */
+}
+.al-toggle.active .al-toggle-knob {
+  transform: translateX(20px);
+}
+
+.al-status {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1C1C1E;
+  pointer-events: none; 
+  transition: color 0.3s;
+}
+
+/* 設定按鈕 */
+.al-settings-btn {
+  background: rgba(0, 0, 0, 0.05);
+  border: none;
+  cursor: pointer;
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #1C1C1E;
+  transition: background 0.2s;
+}
+.al-settings-btn:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* 下拉設定面板 (預設隱藏) */
+#al-settings-panel {
+  display: none;
+  flex-direction: column;
+  gap: 12px;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  margin-top: 12px;
+  padding-top: 12px;
+  cursor: default;
+}
+#al-settings-panel.open {
+  display: flex;
+}
+
+/* 表單元素樣式 */
+.al-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.al-form-group label {
+  font-size: 12px;
+  color: #8E8E93;
+  font-weight: 500;
+}
+.al-input {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #E5E5EA;
+  padding: 8px 10px;
+  border-radius: 8px;
+  font-size: 13px;
+  outline: none;
+  color: #1C1C1E;
+  transition: border-color 0.2s;
+  width: 100%;
+  box-sizing: border-box;
+}
+.al-input:focus {
+  border-color: #007AFF; /* 點擊輸入框變藍色外框 */
+}
+.al-date-group {
+  display: flex;
+  gap: 6px;
+}
+.al-date-group .al-input {
+  text-align: center;
+  padding: 8px 4px;
+}
+
+/* 儲存按鈕 */
+.al-save-btn {
+  background-color: #1C1C1E;
+  color: #FFF;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin-top: 4px;
+}
+.al-save-btn:hover {
+  background-color: #333;
+}
+.al-save-msg {
+  font-size: 12px;
+  color: #34C759;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+  margin-top: -4px;
+}

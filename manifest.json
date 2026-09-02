@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "運動部115揮汗有禮自動登入",
+  "version": "1.0.0",
+  "description": "2026極簡風格：自動填寫運動部115揮汗有禮活動登入資訊，一鍵快速通關。",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://500.gov.tw/registrant/*"],
+      "css": ["content.css"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}

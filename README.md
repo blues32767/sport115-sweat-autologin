@@ -5,7 +5,8 @@
 # 運動部115揮汗有禮-自動登入助手
 本擴充套件旨在協助使用者於運動部「115揮汗有禮」活動期間，自動化填寫登入資訊、管理週次排程提醒，並追蹤活動任務的完成狀態，提供單一且專屬的活動參與輔助工具。
 
-### 🔥 [👉 點此前往 Chrome 線上應用程式商店安裝（完全免費）][https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb](https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb)
+### 🔥 [👉 點此前往 Chrome 線上應用程式商店安裝（完全免費）]
+#[https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb](https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb)
 
 ## ☕ 支持開發者 (Support Me)
 

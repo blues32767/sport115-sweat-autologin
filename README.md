@@ -9,7 +9,6 @@
 ### 🔥 [👉 點此前往 Chrome 線上應用程式商店安裝][https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb](https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb)
 
 ### 🔥 [👉 點此前往 微軟Edge安裝][https://microsoftedge.microsoft.com/addons/detail/115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5%E5%8A%A9%E6%89%8B/oomkoecfhmlldjgkalappebipmkmkanc]
-(https://microsoftedge.microsoft.com/addons/detail/115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5%E5%8A%A9%E6%89%8B/oomkoecfhmlldjgkalappebipmkmkanc)
 #Andorid手機從「微軟 Edge 瀏覽器：支持擴充」貼上此連結進行安裝
 
 ### 🔥 [👉 Tampermonkey油猴腳本][https://github.com/blues32767/sport115-sweat-autologin/blob/main/sport115-autologin.user-Tampermonkey%E6%B2%B9%E7%8C%B4%E8%85%B3%E6%9C%AC.js](https://github.com/blues32767/sport115-sweat-autologin/blob/main/sport115-autologin.user-Tampermonkey%E6%B2%B9%E7%8C%B4%E8%85%B3%E6%9C%AC.js)

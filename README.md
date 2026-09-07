@@ -1,21 +1,35 @@
-「戰神戰神戰神阿基里斯
+> 「戰神戰神戰神阿基里斯  
+> 我還要運動一百年你怎麼就先死」— 芒果醬 Mango Jump [〈阿基裏斯〉](https://www.youtube.com/watch?v=3yYL2U4bPs4)
 
-我還要運動一百年你怎麼就先死」-芒果醬 Mango Jump[〈阿基裏斯〉](https://www.youtube.com/watch?v=3yYL2U4bPs4)
+# 🏃‍♂️ 運動部 115 揮汗有禮 — 自動登入助手
 
-# 運動部115揮汗有禮-自動登入助手
-本擴充套件旨在協助使用者於運動部「115揮汗有禮」活動期間，自動化填寫登入資訊、管理週次排程提醒，並追蹤活動任務的完成狀態，提供單一且專屬的活動參與輔助工具。
-###完全免費
+> 🎁 **完全免費 (100% Free)**  
+> 本擴充套件旨在協助使用者於運動部「115 揮汗有禮」活動期間，自動化填寫登入資訊、管理週次排程提醒，並精準追蹤活動任務的完成狀態，為您提供單一且專屬的活動輔助神器。
 
-### 🔥 [👉 點此前往 Chrome 線上應用程式商店安裝][https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb](https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb)
+---
 
-### 🔥 [👉 點此前往 微軟Edge安裝][https://microsoftedge.microsoft.com/addons/detail/115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5%E5%8A%A9%E6%89%8B/oomkoecfhmlldjgkalappebipmkmkanc]
-#Andorid手機從「微軟 Edge 瀏覽器：支持擴充」貼上此連結進行安裝
+## 📥 跨平台安裝與下載
 
-### 🔥 [👉 點此前往 可在Firefox安裝][https://addons.mozilla.org/zh-TW/firefox/addon/%E9%81%8B%E5%8B%95%E9%83%A8115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5/](https://addons.mozilla.org/zh-TW/firefox/addon/%E9%81%8B%E5%8B%95%E9%83%A8115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5/)
-可在Firefox for Android™ 使用
+### 🌐 瀏覽器擴充套件
 
-### 🔥 [👉 Tampermonkey油猴腳本][https://github.com/blues32767/sport115-sweat-autologin/blob/main/sport115-autologin.user-Tampermonkey%E6%B2%B9%E7%8C%B4%E8%85%B3%E6%9C%AC.js](https://github.com/blues32767/sport115-sweat-autologin/blob/main/sport115-autologin.user-Tampermonkey%E6%B2%B9%E7%8C%B4%E8%85%B3%E6%9C%AC.js)
+* **Chrome 線上應用程式商店**  
+  👉 [點此前往 Chrome 商店安裝](https://chromewebstore.google.com/detail/djdilinkjhjpkjjgndgnandeihbpkmbp?utm_source=item-share-cb)
 
+* **Microsoft Edge 擴充功能** *(📱 支援 Android 手機)*  
+  👉 [點此前往 Edge 商店安裝](https://microsoftedge.microsoft.com/addons/detail/115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5%E5%8A%A9%E6%89%8B/oomkoecfhmlldjgkalappebipmkmkanc)  
+  💡 *Android 手機請使用「Microsoft Edge 瀏覽器（支援擴充功能版）」開啟上方連結進行安裝。*
+
+* **Firefox 附加元件** *(📱 支援 Android 手機)*  
+  👉 [點此前往 Firefox 商店安裝](https://addons.mozilla.org/zh-TW/firefox/addon/%E9%81%8B%E5%8B%95%E9%83%A8115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5/)  
+  💡 *支援 Firefox for Android™ 行動版瀏覽器安裝使用。*
+
+---
+
+### 🐒 Tampermonkey 油猴腳本
+
+* **Tampermonkey Userscript** *(📱 支援 Android、iPhone、iOS 系統)*  
+  👉 [點此前往取得油猴腳本](https://github.com/blues32767/sport115-sweat-autologin/blob/main/sport115-autologin.user-Tampermonkey%E6%B2%B9%E7%8C%B4%E8%85%B3%E6%9C%AC.js)  
+  💡 *跨平台支援！無論是 Android 或 iPhone (iOS) 裝置，搭配支援油猴套件之瀏覽器皆可順暢執行。*
 
 ## ☕ 支持開發者 (Support Me)
 

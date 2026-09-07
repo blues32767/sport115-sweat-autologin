@@ -28,7 +28,7 @@
 ### 🐒 Tampermonkey 油猴腳本
 
 * **Tampermonkey Userscript** *(📱 支援 Android、iPhone、iOS 系統)*  
-  👉 [點此前往取得油猴腳本](https://github.com/blues32767/sport115-sweat-autologin/blob/main/sport115-autologin.user-Tampermonkey%E6%B2%B9%E7%8C%B4%E8%85%B3%E6%9C%AC.js)  
+  👉 [點此前往取得油猴腳本](https://greasyfork.org/zh-TW/scripts/594238-%E9%81%8B%E5%8B%95%E9%83%A8115%E6%8F%AE%E6%B1%97%E6%9C%89%E7%A6%AE%E8%87%AA%E5%8B%95%E7%99%BB%E5%85%A5%E5%8A%A9%E6%89%8B)  
   💡 *跨平台支援！無論是 Android 或 iPhone (iOS) 裝置，搭配支援油猴套件之瀏覽器皆可順暢執行。*
 
 ## ☕ 支持開發者 (Support Me)
